@@ -2,7 +2,7 @@ package howManyDaysLife;
 
 public class howManyDaysLife_Demo {
     public static void main(String[] args) {
-        Person person = new Person("Marek", "Wachowski", "88031813965");
+        Person person = new Person("Konrad", "Zdanowski", "88012517811");
         BirthDay birthDay = new BirthDay(person.getPesel());
         System.out.println(person.getGender());
         System.out.println(person.getBirthDay().getYear());
