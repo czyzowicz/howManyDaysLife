@@ -1,4 +1,4 @@
-package howManyDaysLife;
+package zadania_utrwalajace.zad11;
 
 public class Person {
     private String name;
